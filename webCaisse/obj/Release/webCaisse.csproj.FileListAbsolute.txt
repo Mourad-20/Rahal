@@ -1,0 +1,666 @@
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\csc.exe
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\vbc.exe
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\webCaisse.dll.config
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\webCaisse.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\webCaisse.pdb
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Antlr3.Runtime.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\EntityFramework.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\EntityFramework.SqlServer.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Newtonsoft.Json.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Owin.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Data.SQLite.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Data.SQLite.EF6.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Data.SQLite.Linq.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Net.Http.Formatting.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Helpers.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Http.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Http.Owin.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Http.WebHost.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Mvc.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Optimization.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Razor.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.WebPages.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Unity.Abstractions.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Unity.Container.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Unity.WebApi.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\WebGrease.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\EntityFramework.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\EntityFramework.SqlServer.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Data.SQLite.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Net.Http.Formatting.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Http.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Newtonsoft.Json.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Helpers.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Http.WebHost.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Mvc.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Optimization.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Razor.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.WebPages.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Unity.Abstractions.pdb
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Unity.Container.pdb
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Antlr3.Runtime.pdb
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\System.Web.Http.Owin.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Http.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Razor.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\fr\System.Web.Http.Owin.resources.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\obj\Release\webCaisse.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\obj\Release\webCaisse.pdb
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\obj\Release\webCaisse.csprojResolveAssemblyReference.cache
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Ghostscript.NET.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Ghostscript.NET.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsc
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xss
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\TicketCuisineRpt.rdlc
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.Designer.cs
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsd
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\obj\Release\RdlCompile.cache
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\obj\Release\RdlCompile.compiled
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\DLLs\gsdll64.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\csc.exe
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\vbc.exe
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\DLLs\gsdll64.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsc
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsd
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xss
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\TicketCuisineRpt.rdlc
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.Designer.cs
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\webCaisse.dll.config
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\webCaisse.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\webCaisse.pdb
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Antlr3.Runtime.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\EntityFramework.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\EntityFramework.SqlServer.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Ghostscript.NET.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Newtonsoft.Json.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Owin.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Data.SQLite.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Data.SQLite.EF6.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Data.SQLite.Linq.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Net.Http.Formatting.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Helpers.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Http.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Http.Owin.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Http.WebHost.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Mvc.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Optimization.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Razor.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.WebPages.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Unity.Abstractions.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Unity.Container.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Unity.WebApi.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\WebGrease.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.SqlServer.Types.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\EntityFramework.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\EntityFramework.SqlServer.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Ghostscript.NET.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Data.SQLite.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Net.Http.Formatting.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Http.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Newtonsoft.Json.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Helpers.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Http.WebHost.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Mvc.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Optimization.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Razor.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.WebPages.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Unity.Abstractions.pdb
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Unity.Container.pdb
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Antlr3.Runtime.pdb
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\System.Web.Http.Owin.xml
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Http.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Razor.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\System.Web.Http.Owin.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\obj\Release\webCaisse.csprojResolveAssemblyReference.cache
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\obj\Release\RdlCompile.cache
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\obj\Release\RdlCompile.compiled
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\obj\Release\webCaisse.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\obj\Release\webCaisse.pdb
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\BouncyCastle.Crypto.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\itextsharp.dll
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\itextsharp.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\BouncyCastle.Crypto.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\itextsharp.dll
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\itextsharp.xml
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsc
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsd
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketNote.xss
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\TicketNoteRpt.rdlc
+C:\Users\mon-pc\win71SharedVBox\caisseSol\webCaisse\bin\Reports\DSTicketNote.Designer.cs
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsc
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsd
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketNote.xss
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\TicketNoteRpt.rdlc
+C:\Users\mon\Desktop\caisse git\caisseFO\caisseSol\webCaisse\bin\Reports\DSTicketNote.Designer.cs
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\SqlServerTypes\x64\msvcr120.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\SqlServerTypes\x86\msvcr120.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\csc.exe
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\System.Collections.Immutable.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\System.Reflection.Metadata.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\vbc.exe
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe.config
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\DLLs\gsdll64.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsc
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsd
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xss
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsc
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsd
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketNote.xss
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\TicketCuisineRpt.rdlc
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\TicketNoteRpt.rdlc
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketNote.Designer.cs
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.Designer.cs
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\webCaisse.dll.config
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\webCaisse.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\webCaisse.pdb
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Antlr3.Runtime.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\BouncyCastle.Crypto.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\EntityFramework.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\EntityFramework.SqlServer.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Ghostscript.NET.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\itextsharp.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.ReportViewer.WebForms.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.ReportViewer.WinForms.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.SqlServer.Types.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Web.Infrastructure.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Newtonsoft.Json.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Owin.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Data.SQLite.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Data.SQLite.EF6.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Data.SQLite.Linq.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Net.Http.Formatting.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Helpers.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Http.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Http.Owin.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Http.WebHost.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Mvc.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Optimization.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Razor.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.WebPages.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Unity.Abstractions.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Unity.Container.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Unity.WebApi.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\WebGrease.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\EntityFramework.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\EntityFramework.SqlServer.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Ghostscript.NET.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\itextsharp.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Data.SQLite.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Net.Http.Formatting.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Http.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Newtonsoft.Json.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Helpers.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Http.WebHost.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Mvc.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Optimization.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Razor.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.WebPages.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Unity.Abstractions.pdb
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Unity.Container.pdb
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Antlr3.Runtime.pdb
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\System.Web.Http.Owin.xml
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Http.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Helpers.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Mvc.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Optimization.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Razor.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.WebPages.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\bin\fr\System.Web.Http.Owin.resources.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\obj\Release\webCaisse.csprojResolveAssemblyReference.cache
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\obj\Release\RdlCompile.cache
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\obj\Release\RdlCompile.compiled
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\obj\Release\webCaisse.dll
+D:\win71SharedVBox\projet030422\caisseSol\webCaisse\obj\Release\webCaisse.pdb
+I:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x64\msvcr120.dll
+I:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x86\msvcr120.dll
+I:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\csc.exe
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\System.Collections.Immutable.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\System.Reflection.Metadata.dll
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\vbc.exe
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe
+I:\projetstock\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe.config
+I:\projetstock\caisseSol\webCaisse\bin\DLLs\gsdll64.dll
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsc
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsd
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xss
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsc
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsd
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.xss
+I:\projetstock\caisseSol\webCaisse\bin\Reports\TicketCuisineRpt.rdlc
+I:\projetstock\caisseSol\webCaisse\bin\Reports\TicketNoteRpt.rdlc
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.Designer.cs
+I:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.Designer.cs
+I:\projetstock\caisseSol\webCaisse\bin\webCaisse.dll.config
+I:\projetstock\caisseSol\webCaisse\bin\webCaisse.dll
+I:\projetstock\caisseSol\webCaisse\bin\webCaisse.pdb
+I:\projetstock\caisseSol\webCaisse\bin\Antlr3.Runtime.dll
+I:\projetstock\caisseSol\webCaisse\bin\BouncyCastle.Crypto.dll
+I:\projetstock\caisseSol\webCaisse\bin\EntityFramework.dll
+I:\projetstock\caisseSol\webCaisse\bin\EntityFramework.SqlServer.dll
+I:\projetstock\caisseSol\webCaisse\bin\Ghostscript.NET.dll
+I:\projetstock\caisseSol\webCaisse\bin\itextsharp.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.SqlServer.Types.dll
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Web.Infrastructure.dll
+I:\projetstock\caisseSol\webCaisse\bin\Newtonsoft.Json.dll
+I:\projetstock\caisseSol\webCaisse\bin\Owin.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.EF6.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.Linq.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Net.Http.Formatting.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Helpers.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.Owin.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.WebHost.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Mvc.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Optimization.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Razor.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.dll
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.dll
+I:\projetstock\caisseSol\webCaisse\bin\Unity.Abstractions.dll
+I:\projetstock\caisseSol\webCaisse\bin\Unity.Container.dll
+I:\projetstock\caisseSol\webCaisse\bin\Unity.WebApi.dll
+I:\projetstock\caisseSol\webCaisse\bin\WebGrease.dll
+I:\projetstock\caisseSol\webCaisse\bin\EntityFramework.xml
+I:\projetstock\caisseSol\webCaisse\bin\EntityFramework.SqlServer.xml
+I:\projetstock\caisseSol\webCaisse\bin\Ghostscript.NET.xml
+I:\projetstock\caisseSol\webCaisse\bin\itextsharp.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Net.Http.Formatting.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.xml
+I:\projetstock\caisseSol\webCaisse\bin\Newtonsoft.Json.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Helpers.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.WebHost.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Mvc.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Optimization.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Razor.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.xml
+I:\projetstock\caisseSol\webCaisse\bin\Unity.Abstractions.pdb
+I:\projetstock\caisseSol\webCaisse\bin\Unity.Container.pdb
+I:\projetstock\caisseSol\webCaisse\bin\Antlr3.Runtime.pdb
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.xml
+I:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.Owin.xml
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Net.Http.Formatting.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Http.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Helpers.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Http.WebHost.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Mvc.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Optimization.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Razor.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.WebPages.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Deployment.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Razor.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+I:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Http.Owin.resources.dll
+I:\projetstock\caisseSol\webCaisse\obj\Release\webCaisse.dll
+I:\projetstock\caisseSol\webCaisse\obj\Release\webCaisse.pdb
+I:\projetstock\caisseSol\webCaisse\obj\Release\webCaisse.csprojResolveAssemblyReference.cache
+G:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x64\msvcr120.dll
+G:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x86\msvcr120.dll
+G:\projetstock\caisseSol\webCaisse\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\csc.exe
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\System.Collections.Immutable.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\System.Reflection.Metadata.dll
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\vbc.exe
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe
+G:\projetstock\caisseSol\webCaisse\bin\roslyn\VBCSCompiler.exe.config
+G:\projetstock\caisseSol\webCaisse\bin\DLLs\gsdll64.dll
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsc
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xsd
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.xss
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsc
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.xsd
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.xss
+G:\projetstock\caisseSol\webCaisse\bin\Reports\TicketCuisineRpt.rdlc
+G:\projetstock\caisseSol\webCaisse\bin\Reports\TicketNoteRpt.rdlc
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketNote.Designer.cs
+G:\projetstock\caisseSol\webCaisse\bin\Reports\DSTicketPrepa.Designer.cs
+G:\projetstock\caisseSol\webCaisse\bin\webCaisse.dll.config
+G:\projetstock\caisseSol\webCaisse\bin\webCaisse.dll
+G:\projetstock\caisseSol\webCaisse\bin\webCaisse.pdb
+G:\projetstock\caisseSol\webCaisse\bin\Antlr3.Runtime.dll
+G:\projetstock\caisseSol\webCaisse\bin\BouncyCastle.Crypto.dll
+G:\projetstock\caisseSol\webCaisse\bin\EntityFramework.dll
+G:\projetstock\caisseSol\webCaisse\bin\EntityFramework.SqlServer.dll
+G:\projetstock\caisseSol\webCaisse\bin\Ghostscript.NET.dll
+G:\projetstock\caisseSol\webCaisse\bin\itextsharp.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.ReportViewer.WebForms.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.ReportViewer.WinForms.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.SqlServer.Types.dll
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Web.Infrastructure.dll
+G:\projetstock\caisseSol\webCaisse\bin\Newtonsoft.Json.dll
+G:\projetstock\caisseSol\webCaisse\bin\Owin.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.EF6.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.Linq.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Net.Http.Formatting.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Helpers.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.Owin.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.WebHost.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Mvc.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Optimization.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Razor.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.dll
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.dll
+G:\projetstock\caisseSol\webCaisse\bin\Unity.Abstractions.dll
+G:\projetstock\caisseSol\webCaisse\bin\Unity.Container.dll
+G:\projetstock\caisseSol\webCaisse\bin\Unity.WebApi.dll
+G:\projetstock\caisseSol\webCaisse\bin\WebGrease.dll
+G:\projetstock\caisseSol\webCaisse\bin\EntityFramework.xml
+G:\projetstock\caisseSol\webCaisse\bin\EntityFramework.SqlServer.xml
+G:\projetstock\caisseSol\webCaisse\bin\Ghostscript.NET.xml
+G:\projetstock\caisseSol\webCaisse\bin\itextsharp.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Data.SQLite.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Net.Http.Formatting.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.xml
+G:\projetstock\caisseSol\webCaisse\bin\Newtonsoft.Json.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Helpers.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.WebHost.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Mvc.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Optimization.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Razor.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Deployment.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.WebPages.Razor.xml
+G:\projetstock\caisseSol\webCaisse\bin\Unity.Abstractions.pdb
+G:\projetstock\caisseSol\webCaisse\bin\Unity.Container.pdb
+G:\projetstock\caisseSol\webCaisse\bin\Antlr3.Runtime.pdb
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Core.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Facebook.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Cookies.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.OAuth.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Google.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.Twitter.xml
+G:\projetstock\caisseSol\webCaisse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\projetstock\caisseSol\webCaisse\bin\System.Web.Http.Owin.xml
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Net.Http.Formatting.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Http.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Helpers.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Http.WebHost.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Mvc.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Optimization.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Razor.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.WebPages.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Deployment.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.WebPages.Razor.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\projetstock\caisseSol\webCaisse\bin\fr\System.Web.Http.Owin.resources.dll
+G:\projetstock\caisseSol\webCaisse\obj\Release\webCaisse.csprojResolveAssemblyReference.cache
+G:\projetstock\caisseSol\webCaisse\obj\Release\RdlCompile.cache
+G:\projetstock\caisseSol\webCaisse\obj\Release\RdlCompile.compiled
+G:\projetstock\caisseSol\webCaisse\obj\Release\webCaisse.dll
+G:\projetstock\caisseSol\webCaisse\obj\Release\webCaisse.pdb
